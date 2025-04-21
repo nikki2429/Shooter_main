@@ -1,1 +1,5 @@
-# Shooter_main
+# Pygame
+#shooter_main
+
+pip install pygame
+
